@@ -1,18 +1,18 @@
 {
-  "name": "randomies",
+  "name": "randoman",
   "description": "Generate random alphanumeric",
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/usamahisam/randomies.git"
+    "url": "git://github.com/usamahisam/randoman.git"
   },
   "bugs": {
-    "url": "https://github.com/usamahisam/randomies/issues"
+    "url": "https://github.com/usamahisam/randoman/issues"
   },
   "keywords": [
-    "randomies",
+    "randoman",
     "random",
     "randomstring",
     "random-integer",
